@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164140383233",
+    "firebase_url": "https://jokapp-c59ca.firebaseio.com",
+    "project_id": "jokapp-c59ca",
+    "storage_bucket": "jokapp-c59ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164140383233:android:0490796b9ef15c14ae1400",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164140383233-8943ajr9tg0vohkn1p9ap2vkq3ok4cfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGMP-cpjCL7QZQxNpZlaDITX93ltYMxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164140383233-8943ajr9tg0vohkn1p9ap2vkq3ok4cfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
